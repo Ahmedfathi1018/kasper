@@ -158,6 +158,10 @@ header .container ul li {
   padding-bottom: 27px;
   color: var(--Text-color);
 }
+header .container ul li a{
+  text-decoration: none;
+  color : white;
+}
 @media (max-width: 900px) {
   header .container ul {
     display: none;
